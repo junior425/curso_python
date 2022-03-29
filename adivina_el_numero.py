@@ -12,7 +12,7 @@ def run():
         numero_elegido = int(input('elige otro numero: '))
     print('ganaste!')
 
-
+# este es un un comentario ...
 
 
 if __name__ == '__main__':
